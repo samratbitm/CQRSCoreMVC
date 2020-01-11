@@ -91,3 +91,4 @@ C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution
 C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleTest\obj\Debug\netcoreapp3.0\SampleTest.csproj.CopyComplete
 C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleTest\obj\Debug\netcoreapp3.0\SampleTest.dll
 C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleTest\obj\Debug\netcoreapp3.0\SampleTest.pdb
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleTest\obj\Debug\netcoreapp3.0\SampleTest.csprojAssemblyReference.cache

@@ -7,3 +7,4 @@ C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution
 C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleData\obj\Debug\netcoreapp3.0\SampleData.AssemblyInfo.cs
 C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleData\obj\Debug\netcoreapp3.0\SampleData.dll
 C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleData\obj\Debug\netcoreapp3.0\SampleData.pdb
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleData\obj\Debug\netcoreapp3.0\SampleData.csprojAssemblyReference.cache

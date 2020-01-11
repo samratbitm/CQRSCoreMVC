@@ -10,6 +10,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using SampleData.Models;
+using Microsoft.EntityFrameworkCore;
+using SampleRepository;
+using SampleRepository.Interface;
 
 namespace SampleWebAPI
 {
@@ -31,7 +35,13 @@ namespace SampleWebAPI
             })
             .AddAzureAdBearer(options => Configuration.Bind("AzureAd", options));
 
+            services.AddDbContext<SampleDBContext>(option => option.UseSqlServer(Configuration.GetConnectionString(name: "SampleDB")));
+            services.AddScoped(typeof(IUnitOfWork), typeof(UnitOfWork));
+            services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
+
             services.AddMvc();
+
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

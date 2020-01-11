@@ -7,3 +7,4 @@ C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution
 C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\obj\Debug\predeploy.sql
 C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\obj\Debug\SampleDatabase.dll
 C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\obj\Debug\SampleDatabase.pdb
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\obj\Debug\SampleDatabase.sqlprojAssemblyReference.cache

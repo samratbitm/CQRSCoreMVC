@@ -1,0 +1,84 @@
+01/10/2020 4:02:26 PM	This log contains information about the import schema operation into project 'SampleDatabase' on computer 'ATH051841' by user 'csamrat'.
+01/10/2020 4:02:26 PM	Import of database schema has started.
+01/10/2020 4:02:29 PM	Gathering database credentials
+01/10/2020 4:02:29 PM	Gathering database options
+01/10/2020 4:02:29 PM	Gathering users
+01/10/2020 4:02:29 PM	Gathering roles
+01/10/2020 4:02:29 PM	Gathering application roles
+01/10/2020 4:02:29 PM	Gathering role memberships
+01/10/2020 4:02:29 PM	Gathering filegroups
+01/10/2020 4:02:29 PM	Gathering full-text catalogs
+01/10/2020 4:02:29 PM	Gathering assemblies
+01/10/2020 4:02:29 PM	Gathering certificates
+01/10/2020 4:02:29 PM	Gathering asymmetric keys
+01/10/2020 4:02:29 PM	Gathering symmetric keys
+01/10/2020 4:02:29 PM	Gathering encrypted symmetric keys
+01/10/2020 4:02:29 PM	Gathering schemas
+01/10/2020 4:02:29 PM	Gathering XML schema collections
+01/10/2020 4:02:29 PM	Gathering user-defined data types
+01/10/2020 4:02:29 PM	Gathering user-defined types
+01/10/2020 4:02:29 PM	Gathering table types
+01/10/2020 4:02:29 PM	Gathering unique keys for table types
+01/10/2020 4:02:29 PM	Gathering primary keys for table types
+01/10/2020 4:02:29 PM	Gathering indexes for table types
+01/10/2020 4:02:29 PM	Gathering check constraints for table types
+01/10/2020 4:02:29 PM	Gathering default constraints for table types
+01/10/2020 4:02:29 PM	Gathering partition functions
+01/10/2020 4:02:29 PM	Gathering partition schemes
+01/10/2020 4:02:29 PM	Gathering functions
+01/10/2020 4:02:29 PM	Gathering encrypted functions
+01/10/2020 4:02:29 PM	Gathering aggregates
+01/10/2020 4:02:29 PM	Gathering procedures
+01/10/2020 4:02:29 PM	Gathering encrypted procedures
+01/10/2020 4:02:29 PM	Gathering tables
+01/10/2020 4:02:29 PM	Gathering primary keys
+01/10/2020 4:02:29 PM	Gathering unique constraints
+01/10/2020 4:02:29 PM	Gathering foreign keys
+01/10/2020 4:02:29 PM	Gathering default constraints
+01/10/2020 4:02:29 PM	Gathering check constraints
+01/10/2020 4:02:29 PM	Gathering views
+01/10/2020 4:02:29 PM	Gathering encrypted views
+01/10/2020 4:02:29 PM	Gathering indexes
+01/10/2020 4:02:29 PM	Gathering statistics
+01/10/2020 4:02:29 PM	Gathering full-text index stoplists
+01/10/2020 4:02:29 PM	Gathering search property lists
+01/10/2020 4:02:29 PM	Gathering search properties
+01/10/2020 4:02:29 PM	Gathering full-text indexes
+01/10/2020 4:02:29 PM	Gathering column store indexes
+01/10/2020 4:02:29 PM	Gathering spatial indexes
+01/10/2020 4:02:29 PM	Gathering XML indexes
+01/10/2020 4:02:29 PM	Gathering Selective XML indexes
+01/10/2020 4:02:30 PM	Gathering encrypted triggers
+01/10/2020 4:02:30 PM	Gathering triggers
+01/10/2020 4:02:30 PM	Gathering encrypted and clr ddl triggers
+01/10/2020 4:02:30 PM	Gathering ddl triggers
+01/10/2020 4:02:30 PM	Gathering synonyms
+01/10/2020 4:02:30 PM	Gathering defaults
+01/10/2020 4:02:30 PM	Gathering data constraint uddt bindings
+01/10/2020 4:02:30 PM	Gathering rules
+01/10/2020 4:02:30 PM	Gathering data constraint uddt bindings
+01/10/2020 4:02:30 PM	Gathering message types
+01/10/2020 4:02:30 PM	Gathering queues
+01/10/2020 4:02:30 PM	Gathering contracts
+01/10/2020 4:02:30 PM	Gathering services
+01/10/2020 4:02:30 PM	Gathering event notifications
+01/10/2020 4:02:30 PM	Gathering remote service bindings
+01/10/2020 4:02:30 PM	Gathering broker priorities
+01/10/2020 4:02:30 PM	Gathering signatures
+01/10/2020 4:02:30 PM	Gathering data compression options
+01/10/2020 4:02:30 PM	Gathering sequence types
+01/10/2020 4:02:30 PM	Gathering security policies
+01/10/2020 4:02:30 PM	Gather column encryption keys
+01/10/2020 4:02:30 PM	Gathering column master keys
+01/10/2020 4:02:30 PM	Gathering external data sources
+01/10/2020 4:02:30 PM	Gathering external file formats
+01/10/2020 4:02:30 PM	Gathering external tables
+01/10/2020 4:02:30 PM	Gathering extended properties
+01/10/2020 4:02:30 PM	Gathering credentials
+01/10/2020 4:02:30 PM	Gathering logins
+01/10/2020 4:02:30 PM	Gathering server audits
+01/10/2020 4:02:30 PM	Scanning project for duplicate elements
+01/10/2020 4:02:30 PM	Finished duplicate element processing
+01/10/2020 4:02:30 PM	Finished importing database.
+01/10/2020 4:02:30 PM	A summary of the import was saved to the following location: C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\Import Schema Logs\SampleDatabase_20200110103226.log
+01/10/2020 4:02:30 PM	Click Finish to continue...

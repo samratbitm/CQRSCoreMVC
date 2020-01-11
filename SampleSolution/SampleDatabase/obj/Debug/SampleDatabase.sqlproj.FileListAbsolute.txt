@@ -1,0 +1,9 @@
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\bin\Debug\SampleDatabase.dacpac
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\bin\Debug\SampleDatabase.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\bin\Debug\SampleDatabase.pdb
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\obj\Debug\Model.xml
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\obj\Debug\refactor.xml
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\obj\Debug\postdeploy.sql
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\obj\Debug\predeploy.sql
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\obj\Debug\SampleDatabase.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleDatabase\obj\Debug\SampleDatabase.pdb

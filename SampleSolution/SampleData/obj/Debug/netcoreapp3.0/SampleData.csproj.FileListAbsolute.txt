@@ -1,0 +1,9 @@
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleData\bin\Debug\netcoreapp3.0\SampleData.deps.json
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleData\bin\Debug\netcoreapp3.0\SampleData.runtimeconfig.json
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleData\bin\Debug\netcoreapp3.0\SampleData.runtimeconfig.dev.json
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleData\bin\Debug\netcoreapp3.0\SampleData.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleData\bin\Debug\netcoreapp3.0\SampleData.pdb
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleData\obj\Debug\netcoreapp3.0\SampleData.AssemblyInfoInputs.cache
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleData\obj\Debug\netcoreapp3.0\SampleData.AssemblyInfo.cs
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleData\obj\Debug\netcoreapp3.0\SampleData.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleData\obj\Debug\netcoreapp3.0\SampleData.pdb

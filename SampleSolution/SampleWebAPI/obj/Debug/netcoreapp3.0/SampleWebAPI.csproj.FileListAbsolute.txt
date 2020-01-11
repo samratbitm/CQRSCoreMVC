@@ -1,0 +1,27 @@
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\Connected Services\AzureAD\ConnectedService.json
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\SampleWebAPI.exe
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\SampleWebAPI.deps.json
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\SampleWebAPI.runtimeconfig.json
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\SampleWebAPI.runtimeconfig.dev.json
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\SampleWebAPI.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\SampleWebAPI.pdb
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\obj\Debug\netcoreapp3.0\staticwebassets\SampleWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\obj\Debug\netcoreapp3.0\staticwebassets\SampleWebAPI.StaticWebAssets.xml
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\obj\Debug\netcoreapp3.0\SampleWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\obj\Debug\netcoreapp3.0\SampleWebAPI.AssemblyInfoInputs.cache
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\obj\Debug\netcoreapp3.0\SampleWebAPI.AssemblyInfo.cs
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\obj\Debug\netcoreapp3.0\SampleWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\obj\Debug\netcoreapp3.0\SampleWebAPI.csproj.CopyComplete
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\obj\Debug\netcoreapp3.0\SampleWebAPI.dll
+C:\Users\csamrat\Documents\Personal\PracticeSolutions\CQRSCoreMVC\SampleSolution\SampleWebAPI\obj\Debug\netcoreapp3.0\SampleWebAPI.pdb
